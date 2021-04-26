@@ -1,0 +1,264 @@
+body {
+    background-color: #151424;
+}
+
+.contaiter-main {
+    margin-top: -276px;
+}
+
+button {
+    border: 0;
+    font-size: 14px;
+    margin-top: 18px;
+    background-color: rgb(98 81 224 / 94%);
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+    width: 107px;
+}
+
+.first-container {
+    display: flex;
+    justify-content: center;
+    margin-left: 10%;
+    padding: 10px;
+    margin-top: 15%;
+    margin-right: 10%;
+}
+
+.item-first-1 {
+    width: 50%;
+}
+
+.item-first {
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.item-first-2 {
+    background-color: white;
+    margin-left: 5px;
+    width: 50%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.category-1 {
+    margin-left: 98px;
+    font-size: 28px;
+    margin-top: 4%;
+}
+
+i.fa.fa-caret-right {
+    color: rgb(52 81 224 / 94%);
+}
+
+.second-container {
+    height: 611px;
+}
+
+.second-product {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
+    margin-left: 10%;
+    margin-top: 4%;
+    margin-right: 11%;
+}
+
+.product-1 {
+    background-color: rgba(255, 255, 255, 0.8);
+    margin-right: 18px;
+    width: 904px;
+    height: 506px;
+}
+
+.product-2 {
+    background-color: #331b4f;
+    width: 276px;
+}
+
+.thirt-product {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-gap: 10px;
+    margin-left: 10%;
+    margin-top: 4%;
+    height: 519px;
+    margin-right: 11%;
+}
+
+.product-3 {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    font-size: 30px;
+}
+
+.image-footer {
+    background-image: url(2.PNG);
+    width: 100%;
+    height: 188px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+footer.end {
+    background-color: #4d5767;
+    width: 100%;
+}
+
+.flex-display {
+    display: flex;
+    padding: 10px;
+}
+
+.server {
+    margin-left: 12%;
+}
+
+li {
+    margin-bottom: 40px;
+    margin-top: 31px;
+    color: #2196F3;
+}
+
+.logo-end {
+    margin-left: 29%;
+    margin-top: 20px;
+}
+
+p {
+    margin-left: -23px;
+    margin-top: 4px;
+    color: wheat;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+/*-------------------------------------*/
+
+.image-game-1 {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 150px;
+}
+
+.text-game-1 {
+    margin-top: -16%;
+    margin-left: 66%;
+    color: white;
+    font-size: 25px;
+}
+
+.image-game-2 {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 150px;
+}
+
+.text-game-2 {
+    margin-top: -15%;
+    margin-left: 61%;
+    color: white;
+    font-size: 21px;
+}
+
+.image-game-3 {
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 150px;
+}
+
+.text-game-3 {
+    margin-top: -18%;
+    margin-left: 74%;
+    color: white;
+    font-size: 20px;
+}
+
+video {
+    width: 745.81px;
+    height: 419px;
+}
+
+a.text-4 {
+    color: black;
+}
+
+.image-game-5 {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 510px;
+}
+
+.text-game-5 {
+    margin-top: -38%;
+    margin-left: 59%;
+    color: white;
+    font-size: 20px;
+}
+
+span.text-products {
+    font-size: 17px;
+}
+
+button.watch-dog {
+    margin-left: 81%;
+    margin-top: 4%;
+}
+
+button.fra-cry {
+    margin-left: 38%;
+    width: 70px;
+    margin-top: 17px;
+}
+
+button.assass {
+    margin-left: 38%;
+    width: 70px;
+    margin-bottom: 7px;
+}
+
+h4 {
+    margin-left: 87px;
+    height: 0px;
+    margin-top: 5px;
+}
+
+.notable {
+    font-size: 16px;
+    margin-left: 119px;
+    margin-top: 30px;
+    color: #FFCD42;
+}
+
+h3 {
+    margin-top: 32px;
+    margin-left: -13px;
+}
+
+.notable-1 {
+    color: #FFCD42;
+    margin-left: 60%;
+    font-size: 20px;
+    margin-top: 48px;
+}
+
+h5 {
+    font-size: 19px;
+    margin-top: 7px;
+    color: black;
+}
+
+.price {
+    margin-top: -29px;
+    font-size: 25px;
+}
